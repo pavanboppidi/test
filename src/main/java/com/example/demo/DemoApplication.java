@@ -1,3 +1,4 @@
+
 package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
@@ -12,3 +13,4 @@ public class DemoApplication {
 		System.out.println("New Update1");
 	}
 }
+
