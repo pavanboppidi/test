@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
@@ -22,3 +23,4 @@ public class DemoApplication {
 		//changes in ws2
 	}
 }
+
