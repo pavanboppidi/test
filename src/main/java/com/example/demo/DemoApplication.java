@@ -1,16 +1,17 @@
+<<<<<<< HEAD
+package com.example.demo;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@Deprecated
 public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("Update 3");
 		//gfjhj
-		//test3
-		//test4
+		//CHanges in 1
 		System.out.println("New Update 2 678924235435");
 		System.out.println("added in local");
 		//fghghjhgkhjkjh
@@ -22,3 +23,4 @@ public class DemoApplication {
 		//changes in ws2
 	}
 }
+
