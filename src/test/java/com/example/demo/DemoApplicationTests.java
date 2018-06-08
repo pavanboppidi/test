@@ -12,7 +12,7 @@ public class DemoApplicationTests {
 	@Test
 	public void contextLoads() {
 		
-	  //Commit2 
+	  //Commit in master 
 	}
 
 }
